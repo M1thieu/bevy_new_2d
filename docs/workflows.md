@@ -9,7 +9,7 @@ The [CI workflow](.github/workflows/ci.yaml) will trigger on every commit or PR 
 - Run tests.
 - Run Clippy lints.
 - Check formatting.
-- Check documentation.
+- Check documentation.lol
 
 > [!TIP]
 > <details>
